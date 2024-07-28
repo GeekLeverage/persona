@@ -1,0 +1,8 @@
+{
+  "appsail": [
+    {
+      "source": "/workspaces/persona/appsail-nodejs",
+      "name": "persona-api-v1"
+    }
+  ]
+}

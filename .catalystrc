@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "21344000000020999",
+      "name": "Persona",
+      "domain": {
+        "id": "10085782375",
+        "name": "persona-858636094.development"
+      },
+      "timezone": "America/New_York",
+      "env": [
+        {
+          "idx": 1,
+          "id": "858636094",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
